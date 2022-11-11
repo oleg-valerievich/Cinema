@@ -209,9 +209,54 @@ z-index: 2;
     position: absolute;
     width: 1242px;
     height: 524px;
-    left: 339px;
     background: #1B213A;
     margin-top: 462px;
-    margin-left: -47px;
+    margin-left: 291px;
     z-index: 1;
+}
+
+
+
+
+.open-air-text {
+    position: absolute;
+    width: 427px;
+    height: 98px;
+    margin-left: 668px;
+    margin-top: 57px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+
+
+.text-personla-headphones {
+   position: absolute;
+   width: 427px;
+   height: 98px;
+   margin-left: 670px;
+   margin-top: 182px;
+   font-family: 'Josefin Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 46px;
+   color: #FFFFFF; 
+}
+
+
+
+.text-live-completely {
+    width: 273px;
+    height: 52px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #B2B2D3;
+    margin-left: 670px;
+    margin-top: 252px;
 }
