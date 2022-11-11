@@ -17,8 +17,8 @@ width: 1920px;
     justify-content: space-between;
     list-style-type: none;  /*убрать маркеры списка */
     margin-top: 56px;
-    margin-left: 771px;
-    margin-right:236px;
+    margin-left: 828px;
+    margin-right: 347px;
     
 }
 
@@ -79,7 +79,7 @@ width: 1920px;
 
 .bg-foto {
     margin-top: 58px;
-    margin-left: 811px;
+    margin-left: 868px;
 }
 
 
@@ -207,18 +207,18 @@ z-index: 2;
 
 .open-film-box {
     position: absolute;
-    width: 1242px;
+    width: 1294px;
     height: 524px;
     background: #1B213A;
     margin-top: 462px;
-    margin-left: 291px;
+    margin-left: 296px;
     z-index: 1;
 }
 
 
 
 
-.open-air-text {
+.text-open-air {
     position: absolute;
     width: 427px;
     height: 98px;
@@ -259,4 +259,83 @@ z-index: 2;
     color: #B2B2D3;
     margin-left: 670px;
     margin-top: 252px;
+}
+
+.text-Chairs-Cozy {
+    width: 273px;
+    height: 60px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-left: 666px;
+    margin-top: 27px;
+}
+
+.text-lean-relax {
+    width: 273px;
+    height: 52px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+    color: #B2B2D3;
+    margin-top: -2px;
+    margin-left: 669px;
+}
+
+
+.text-City-Views {
+    width: 273px;
+    height: 30px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-top: -255px;
+    margin-left: 1017px;
+}
+
+.text-our-locations {
+    width: 273px;
+    height: 52px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+    color: #B2B2D3;
+    margin-top: 34px;
+    margin-left: 1018px;
+}
+
+.text-Iconic-Movies {
+width: 273px;
+height: 60px;
+font-family: 'Darker Grotesque';
+font-family: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 100%;
+color: #FFFFFF;
+margin-left: 1016px;
+margin-top: 30px;
+}
+
+.text-our-program {
+    width: 273px;
+    height: 52px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+    color: #B2B2D3;
+    margin-top: -3px;
+    margin-left: 1015px;
 }
