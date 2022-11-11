@@ -339,3 +339,11 @@ margin-top: 30px;
     margin-top: -3px;
     margin-left: 1015px;
 }
+
+.small-btn {
+    position: absolute;
+    margin-top: 688px;
+    margin-left: 570px;
+    z-index: 3;
+
+}
