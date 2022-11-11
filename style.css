@@ -194,11 +194,24 @@ text-decoration: none;
 
 .sec-two-banner {
     width: 1920px;
-    height: 1000px;
+    height: 1060px;
     margin: 0 auto;
 }
 
 .Rectangle-three {
+    position: absolute;
 margin-top: 462px;
 margin-left: 293px;
+z-index: 2;
+}
+
+.open-film-box {
+    position: absolute;
+    width: 1242px;
+    height: 524px;
+    left: 339px;
+    background: #1B213A;
+    margin-top: 462px;
+    margin-left: -47px;
+    z-index: 1;
 }
