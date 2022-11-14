@@ -194,7 +194,7 @@ text-decoration: none;
 
 .sec-two-banner {
     width: 1920px;
-    height: 1060px;
+    height: 1770px;
     margin: 0 auto;
 }
 
@@ -346,4 +346,83 @@ margin-top: 30px;
     margin-left: 570px;
     z-index: 3;
 
+}
+
+
+.text-locations {
+   position: absolute;
+   width: 302px;
+   height: 48px;
+   font-family: 'Josefin Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 48px;
+   line-height: 48px;
+   color: #FFFFFF; 
+   margin-top: 200px;
+}
+
+
+.small-btn-left-foto {
+    position: absolute;
+    margin-top: 178px;
+    margin-left: 1150px;
+}
+
+
+.small-btn-right-foto {
+    position: absolute;
+    margin-top: 179px;
+    margin-left: 1232px;
+}
+
+
+.Rectangle-foto {
+    position: absolute;
+    margin-top: 308px;
+    
+}
+
+
+.Rectangle2-foto {
+    position: absolute;
+    margin-left: 454px;
+    margin-top: 308px;
+}
+
+
+.Rectangle4-foto {
+    position: absolute;
+    margin-left: 901px;
+    margin-top: 308px;
+}
+
+
+.btn-choose-location {
+    position: absolute;
+    width: 234px;
+    height: 59px;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 40px 18px;
+    gap: 10px;
+    top: 917px;
+    background: #51578C;
+    margin-left: 536px;
+
+}
+
+.text-location {
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 154px;
+    height: 23px;
+    text-decoration: none;
 }
