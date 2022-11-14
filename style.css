@@ -426,3 +426,153 @@ margin-top: 30px;
     height: 23px;
     text-decoration: none;
 }
+
+.text-club-El {
+    
+    position: absolute;
+    width: 258px;
+    height: 38px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-top: 727px;
+   
+}
+
+.star-one {
+    margin-left: 348px;
+    margin-top: 742px;
+}
+
+.number-one {
+margin-left: 370px;
+margin-top: -37px;
+font-weight: 600;
+font-family: 'Darker Grotesque';
+font-size: 20px;
+}
+
+.text-los-angeles {
+font-family: 'Darker Grotesque';
+font-size: 20px;
+margin-top: 5px;
+line-height: 27px;
+font-weight: 400;
+color: #B2B2D3;
+}
+
+.text-person {
+    margin-left: 336px;
+    margin-top: -27px;
+    font-weight: 600;
+    font-family: 'Darker Grotesque';
+    font-size: 20px;
+}
+
+.text-from {
+    margin-left: 151px;
+    margin-top: -27px;
+    font-weight: 600;
+    font-family: 'Darker Grotesque';
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.text-drive-navigation {
+    position: absolute;
+    width: 291px;
+    height: 38px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-top: -85px;
+    margin-left: 453px;
+}
+
+
+.number-two {
+    margin-left: 370px;
+    margin-top: -37px;
+    font-weight: 600;
+    font-family: 'Darker Grotesque';
+    font-size: 20px;   
+}
+
+.star-two {
+    position: absolute;
+    margin-left: 804px;
+    margin-top: -72px;
+}
+
+.text-houston {
+font-family: 'Darker Grotesque';
+font-size: 20px;
+margin-top: -48px;
+margin-left: 452px;
+line-height: 27px;
+font-weight: 400;
+color: #B2B2D3;
+}
+
+.text-from-two {
+    margin-left: 182px;
+    margin-top: -27px;
+    font-weight: 600;
+    font-family: 'Darker Grotesque';
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.text-club-embracadero {
+    position: absolute;
+    width: 290px;
+    height: 38px;
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-top: -89px;
+    margin-left: 896px;
+}
+
+
+.number-three {
+    margin-left: 373px;
+    margin-top: -32px;
+    font-weight: 600;
+    font-family: 'Darker Grotesque';
+    font-size: 20px;      
+}
+
+.star-three {
+    position: absolute;
+    margin-left: 1247px;
+    margin-top: -72px;
+}
+
+.text-san-diego {
+    font-family: 'Darker Grotesque';
+    font-size: 20px;
+    margin-top: -48px;
+    margin-left: 897px;
+    line-height: 27px;
+    font-weight: 400;
+    color: #B2B2D3;   
+}
+
+.text-from-three {
+    margin-left: 169px;
+    margin-top: -27px;
+    font-weight: 600;
+    font-family: 'Darker Grotesque';
+    font-size: 20px;
+    color: #FFFFFF;   
+}
