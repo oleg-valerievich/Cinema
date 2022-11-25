@@ -1,0 +1,26 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#EEEEEE"/>
+<g id="landing" clip-path="url(#clip0_0_1)">
+<rect width="1920" height="6018" transform="translate(-852 -2613)" fill="#121521"/>
+<g id="booking info">
+<rect id="bg" x="-852" y="-246" width="1920" height="845" fill="#1B213A"/>
+<g id="accordion">
+<g id="list item">
+<rect x="-512" y="-43" width="574" height="281" fill="#1B213A"/>
+<g id="mark">
+<g id="close">
+<path id="Vector 15" d="M1.51465 1.51465L18.4852 18.4852" stroke="white" stroke-width="2"/>
+<path id="Vector 16" d="M18.4854 1.51465L1.51479 18.4852" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<rect x="-512" y="-43" width="574" height="281" stroke="white" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="6018" fill="white" transform="translate(-852 -2613)"/>
+</clipPath>
+</defs>
+</svg>

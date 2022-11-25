@@ -1,578 +1,973 @@
 body {
-    width: 1920px;
-    margin: 0 auto;
-    background: #121521;
-    
+  margin: 0 auto;
+  background: #121521;
 }
 
 header {
-width: 1920px;
+  width: 1920px;
+  margin: auto;
 }
 
 .d-flex {
-    display: flex;
+  display: flex;
 }
 
 .menu-spisok-right {
-    justify-content: space-between;
-    list-style-type: none;  /*убрать маркеры списка */
-    margin-top: 56px;
-    margin-left: 828px;
-    margin-right: 347px;
-    
+  justify-content: space-between;
+  list-style-type: none; /*убрать маркеры списка */
+  margin-top: 56px;
+  margin-left: 828px;
+  margin-right: 347px;
 }
 
-
 .cinema {
-    margin-left: 164px;
-
+  margin-left: 164px;
 }
 
 .menu-spisok-right li a {
-    text-decoration: none;
-    color: #FFFFFF;
-    height: 27px;
-    font-family: 'Darker Grotesque', sans-serif;  /*Шрифт*/
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 27px;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+  text-decoration: none;
+  color: #ffffff;
+  height: 27px;
+  font-family: "Darker Grotesque", sans-serif; /*Шрифт*/
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
-.top-menu-l  {
-    position: absolute;
-    width: 120px;
-    height: 27px;
-    margin-top: 52px;
-    margin-left: 100px;
-       
+.top-menu-l {
+  position: absolute;
+  width: 120px;
+  height: 27px;
+  margin-top: 52px;
+  margin-left: 100px;
 }
-
 
 .text-Rooftop {
-    width: 392px;
-    height: 60px;
-    font-family: 'Josefin Sans', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 60px;
-    color: #FFFFFF;
-    flex: none;
-    order: 0;
-    align-self: stretch;
-    flex-grow: 0;
-    margin-top: -19px;
-    margin-left: 302px;
+  width: 392px;
+  height: 60px;
+  font-family: "Josefin Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 60px;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  margin-top: -19px;
+  margin-left: 302px;
 }
-
-
 
 .one-banner {
-    width: 1920px;
-    margin: 0 auto;
+  width: 1920px;
+  margin: 0 auto;
 }
-
 
 .bg-foto {
-    margin-top: 58px;
-    margin-left: 868px;
+  margin-top: 58px;
+  margin-left: 868px;
 }
-
 
 .text-experience {
-    flex: none;
-    width: 393px;
-    height: 27px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 27px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #B2B2D3;
-    order: 0;
-    align-self: stretch;
-    flex-grow: 0;
-    margin-left: 305px;
-    margin-top: -599px;
+  flex: none;
+  width: 393px;
+  height: 27px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 27px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #b2b2d3;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  margin-left: 305px;
+  margin-top: -599px;
 }
-
 
 .text-movie-night {
-    width: 455px;
-    height: 86px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    color: #B2B2D3;
-    flex: none;
-    order: 1;
-    align-self: stretch;
-    flex-grow: 0;
-    margin-left: 302px;
+  width: 455px;
+  height: 86px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  color: #b2b2d3;
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+  margin-left: 302px;
 }
-
 
 .btn-book-day {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 14px 40px 18px;
-    gap: 10px;
-    position: absolute;
-   width: 176px;
-   height: 59px;
-   background: #40467C;
-   margin-left: 298px;
-   margin-top: 58px;
-   
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 40px 18px;
+  gap: 10px;
+  position: absolute;
+  width: 176px;
+  height: 59px;
+  background: #40467c;
+  margin-left: 298px;
+  margin-top: 58px;
 }
 
-
-.text-book-day  {
-width: 113px;
-height: 23px;
-font-family: 'Darker Frotest';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 23px;
-text-align: center;
-letter-spacing: 0.09em;
-text-transform: uppercase;
-color: #FFFFFF;
-flex: none;
-order: 0;
-flex-grow: 0;
-text-decoration: none;
+.text-book-day {
+  width: 113px;
+  height: 23px;
+  font-family: "Darker Frotest";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  text-decoration: none;
 }
-
 
 .btn-how-works {
-   box-sizing: border-box;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-    padding: 14px 40px 18px;
-    gap: 10px;
-    position: absolute;
-    width: 204px;
-    height: 59px;
-    margin-left: 499px;
-    margin-top: 59px;
-    background: rgba(20, 25, 35, 0.01);
-    border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 40px 18px;
+  gap: 10px;
+  position: absolute;
+  width: 204px;
+  height: 59px;
+  margin-left: 499px;
+  margin-top: 59px;
+  background: rgba(20, 25, 35, 0.01);
+  border: 2px solid #ffffff;
 }
-
 
 .text-how-works {
-    width: 124px;
-    height: 23px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 23px;
-    text-align: center;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #FFFFFF;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-    text-decoration: none;
+  width: 124px;
+  height: 23px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  text-decoration: none;
 }
 
-
 .sec-two-banner {
-    width: 1920px;
-    height: 1770px;
-    margin: 0 auto;
+  width: 1920px;
+  height: 1770px;
+  margin: 0 auto;
 }
 
 .Rectangle-three {
-    position: absolute;
-margin-top: 462px;
-margin-left: 293px;
-z-index: 2;
+  position: absolute;
+  margin-top: 462px;
+  margin-left: 293px;
+  z-index: 2;
 }
 
 .open-film-box {
-    position: absolute;
-    width: 1294px;
-    height: 524px;
-    background: #1B213A;
-    margin-top: 462px;
-    margin-left: 296px;
-    z-index: 1;
+  position: absolute;
+  width: 1294px;
+  height: 524px;
+  background: #1b213a;
+  margin-top: 462px;
+  margin-left: 296px;
+  z-index: 1;
 }
-
-
-
 
 .text-open-air {
-    position: absolute;
-    width: 427px;
-    height: 98px;
-    margin-left: 668px;
-    margin-top: 57px;
-    font-family: 'Josefin Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 46px;
-    line-height: 46px;
-    color: #FFFFFF;
+  position: absolute;
+  width: 427px;
+  height: 98px;
+  margin-left: 668px;
+  margin-top: 57px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 46px;
+  line-height: 46px;
+  color: #ffffff;
 }
-
 
 .text-personla-headphones {
-   position: absolute;
-   width: 427px;
-   height: 98px;
-   margin-left: 670px;
-   margin-top: 182px;
-   font-family: 'Josefin Sans';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 30px;
-   line-height: 46px;
-   color: #FFFFFF; 
+  position: absolute;
+  width: 427px;
+  height: 98px;
+  margin-left: 670px;
+  margin-top: 182px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 46px;
+  color: #ffffff;
 }
 
-
-
 .text-live-completely {
-    width: 273px;
-    height: 52px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    color: #B2B2D3;
-    margin-left: 670px;
-    margin-top: 252px;
+  width: 273px;
+  height: 52px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #b2b2d3;
+  margin-left: 670px;
+  margin-top: 252px;
 }
 
 .text-Chairs-Cozy {
-    width: 273px;
-    height: 60px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 30px;
-    line-height: 100%;
-    color: #FFFFFF;
-    margin-left: 666px;
-    margin-top: 27px;
+  width: 273px;
+  height: 60px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 100%;
+  color: #ffffff;
+  margin-left: 666px;
+  margin-top: 27px;
 }
 
 .text-lean-relax {
-    width: 273px;
-    height: 52px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 130%;
-    color: #B2B2D3;
-    margin-top: -2px;
-    margin-left: 669px;
+  width: 273px;
+  height: 52px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  color: #b2b2d3;
+  margin-top: -2px;
+  margin-left: 669px;
 }
 
-
 .text-City-Views {
-    width: 273px;
-    height: 30px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 30px;
-    line-height: 100%;
-    color: #FFFFFF;
-    margin-top: -255px;
-    margin-left: 1017px;
+  width: 273px;
+  height: 30px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 100%;
+  color: #ffffff;
+  margin-top: -255px;
+  margin-left: 1017px;
 }
 
 .text-our-locations {
-    width: 273px;
-    height: 52px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 130%;
-    color: #B2B2D3;
-    margin-top: 34px;
-    margin-left: 1018px;
+  width: 273px;
+  height: 52px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  color: #b2b2d3;
+  margin-top: 34px;
+  margin-left: 1018px;
 }
 
 .text-Iconic-Movies {
-width: 273px;
-height: 60px;
-font-family: 'Darker Grotesque';
-font-family: normal;
-font-weight: 500;
-font-size: 30px;
-line-height: 100%;
-color: #FFFFFF;
-margin-left: 1016px;
-margin-top: 30px;
+  width: 273px;
+  height: 60px;
+  font-family: "Darker Grotesque";
+  font-family: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 100%;
+  color: #ffffff;
+  margin-left: 1016px;
+  margin-top: 30px;
 }
 
 .text-our-program {
-    width: 273px;
-    height: 52px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 130%;
-    color: #B2B2D3;
-    margin-top: -3px;
-    margin-left: 1015px;
+  width: 273px;
+  height: 52px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+  color: #b2b2d3;
+  margin-top: -3px;
+  margin-left: 1015px;
 }
 
 .small-btn {
-    position: absolute;
-    margin-top: 688px;
-    margin-left: 570px;
-    z-index: 3;
-
+  position: absolute;
+  margin-top: 688px;
+  margin-left: 570px;
+  z-index: 3;
 }
-
 
 .text-locations {
-   position: absolute;
-   width: 302px;
-   height: 48px;
-   font-family: 'Josefin Sans';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 48px;
-   line-height: 48px;
-   color: #FFFFFF; 
-   margin-top: 200px;
+  position: absolute;
+  width: 302px;
+  height: 48px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  color: #ffffff;
+  margin-top: 200px;
 }
-
 
 .small-btn-left-foto {
-    position: absolute;
-    margin-top: 178px;
-    margin-left: 1150px;
+  position: absolute;
+  margin-top: 178px;
+  margin-left: 1150px;
 }
-
 
 .small-btn-right-foto {
-    position: absolute;
-    margin-top: 179px;
-    margin-left: 1232px;
+  position: absolute;
+  margin-top: 179px;
+  margin-left: 1232px;
 }
-
 
 .Rectangle-foto {
-    position: absolute;
-    margin-top: 308px;
-    
+  position: absolute;
+  margin-top: 308px;
 }
-
 
 .Rectangle2-foto {
-    position: absolute;
-    margin-left: 454px;
-    margin-top: 308px;
+  position: absolute;
+  margin-left: 454px;
+  margin-top: 308px;
 }
-
 
 .Rectangle4-foto {
-    position: absolute;
-    margin-left: 901px;
-    margin-top: 308px;
+  position: absolute;
+  margin-left: 901px;
+  margin-top: 308px;
 }
 
-
 .btn-choose-location {
-    position: absolute;
-    width: 234px;
-    height: 59px;
-    justify-content: center;
-    align-items: center;
-    padding: 14px 40px 18px;
-    gap: 10px;
-    top: 917px;
-    background: #51578C;
-    margin-left: 536px;
-
+  position: absolute;
+  width: 234px;
+  height: 59px;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 40px 18px;
+  gap: 10px;
+  top: 917px;
+  background: #51578c;
+  margin-left: 536px;
 }
 
 .text-location {
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 23px;
-    text-align: center;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: #FFFFFF;
-    width: 154px;
-    height: 23px;
-    text-decoration: none;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #ffffff;
+  width: 154px;
+  height: 23px;
+  text-decoration: none;
 }
 
 .text-club-El {
-    
-    position: absolute;
-    width: 258px;
-    height: 38px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 28px;
-    line-height: 38px;
-    color: #FFFFFF;
-    margin-top: 727px;
-   
+  position: absolute;
+  width: 258px;
+  height: 38px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  color: #ffffff;
+  margin-top: 727px;
 }
 
 .star-one {
-    margin-left: 348px;
-    margin-top: 742px;
+  margin-left: 348px;
+  margin-top: 742px;
 }
 
 .number-one {
-margin-left: 370px;
-margin-top: -37px;
-font-weight: 600;
-font-family: 'Darker Grotesque';
-font-size: 20px;
+  margin-left: 370px;
+  margin-top: -37px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
 }
 
 .text-los-angeles {
-font-family: 'Darker Grotesque';
-font-size: 20px;
-margin-top: 5px;
-line-height: 27px;
-font-weight: 400;
-color: #B2B2D3;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
+  margin-top: 5px;
+  line-height: 27px;
+  font-weight: 400;
+  color: #b2b2d3;
 }
 
 .text-person {
-    margin-left: 336px;
-    margin-top: -27px;
-    font-weight: 600;
-    font-family: 'Darker Grotesque';
-    font-size: 20px;
+  margin-left: 336px;
+  margin-top: -27px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
 }
 
 .text-from {
-    margin-left: 151px;
-    margin-top: -27px;
-    font-weight: 600;
-    font-family: 'Darker Grotesque';
-    font-size: 20px;
-    color: #FFFFFF;
+  margin-left: 151px;
+  margin-top: -27px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
+  color: #ffffff;
 }
 
 .text-drive-navigation {
-    position: absolute;
-    width: 291px;
-    height: 38px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 28px;
-    line-height: 38px;
-    color: #FFFFFF;
-    margin-top: -85px;
-    margin-left: 453px;
+  position: absolute;
+  width: 291px;
+  height: 38px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  color: #ffffff;
+  margin-top: -85px;
+  margin-left: 453px;
 }
 
-
 .number-two {
-    margin-left: 370px;
-    margin-top: -37px;
-    font-weight: 600;
-    font-family: 'Darker Grotesque';
-    font-size: 20px;   
+  margin-left: 370px;
+  margin-top: -37px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
 }
 
 .star-two {
-    position: absolute;
-    margin-left: 804px;
-    margin-top: -72px;
+  position: absolute;
+  margin-left: 804px;
+  margin-top: -72px;
 }
 
 .text-houston {
-font-family: 'Darker Grotesque';
-font-size: 20px;
-margin-top: -48px;
-margin-left: 452px;
-line-height: 27px;
-font-weight: 400;
-color: #B2B2D3;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
+  margin-top: -48px;
+  margin-left: 452px;
+  line-height: 27px;
+  font-weight: 400;
+  color: #b2b2d3;
 }
 
 .text-from-two {
-    margin-left: 182px;
-    margin-top: -27px;
-    font-weight: 600;
-    font-family: 'Darker Grotesque';
-    font-size: 20px;
-    color: #FFFFFF;
+  margin-left: 182px;
+  margin-top: -27px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
+  color: #ffffff;
 }
 
 .text-club-embracadero {
-    position: absolute;
-    width: 290px;
-    height: 38px;
-    font-family: 'Darker Grotesque';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 28px;
-    line-height: 38px;
-    color: #FFFFFF;
-    margin-top: -89px;
-    margin-left: 896px;
+  position: absolute;
+  width: 290px;
+  height: 38px;
+  font-family: "Darker Grotesque";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  color: #ffffff;
+  margin-top: -89px;
+  margin-left: 896px;
 }
 
-
 .number-three {
-    margin-left: 373px;
-    margin-top: -32px;
-    font-weight: 600;
-    font-family: 'Darker Grotesque';
-    font-size: 20px;      
+  margin-left: 373px;
+  margin-top: -32px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
 }
 
 .star-three {
-    position: absolute;
-    margin-left: 1247px;
-    margin-top: -72px;
+  position: absolute;
+  margin-left: 1247px;
+  margin-top: -72px;
 }
 
 .text-san-diego {
-    font-family: 'Darker Grotesque';
-    font-size: 20px;
-    margin-top: -48px;
-    margin-left: 897px;
-    line-height: 27px;
-    font-weight: 400;
-    color: #B2B2D3;   
+  font-family: "Darker Grotesque";
+  font-size: 20px;
+  margin-top: -48px;
+  margin-left: 897px;
+  line-height: 27px;
+  font-weight: 400;
+  color: #b2b2d3;
 }
 
 .text-from-three {
-    margin-left: 169px;
-    margin-top: -27px;
-    font-weight: 600;
-    font-family: 'Darker Grotesque';
-    font-size: 20px;
-    color: #FFFFFF;   
+  margin-left: 169px;
+  margin-top: -27px;
+  font-weight: 600;
+  font-family: "Darker Grotesque";
+  font-size: 20px;
 }
+
+.sec-three-banner {
+  background-color: #1b213a;
+  margin-top: 148px;
+}
+
+.cards-container {
+  margin: 0 auto;
+  width: 1920px;
+  height: 845px;
+  display: flex;
+  align-items: center;
+  column-gap: 65px;
+}
+
+.img-izobra {
+  position: absolute;
+  width: 945px;
+  height: 845px;
+  margin-left: 970px;
+  margin-top: -785px;
+  /*flex-direction: row;*/
+}
+
+.text-booking-info {
+  position: absolute;
+  width: 577px;
+  height: 46px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 46px;
+  line-height: 46px;
+  color: #ffffff;
+  margin-left: 299px;
+  margin-top: 3px;
+}
+
+.box-one {
+  box-sizing: border-box;
+  padding: 30px;
+  height: 332px;
+  background: #1b213a;
+  border: 2px solid #ffffff;
+  margin-top: 107px;
+  margin-left: 308px;
+  color: #ffffff;
+}
+
+.box-one h2 {
+  position: absolute;
+  width: 223px;
+  height: 43px;
+  font-family: "Darker Grotesque";
+  font-weight: 600;
+  font-size: 32px;
+  padding-left: 29px;
+  margin-top: -1px;
+}
+
+.box-one p {
+  width: 468px;
+  height: 170px;
+  font-family: "Darker Grotesque";
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: 72px;
+  margin-left: 30px;
+}
+
+.vector16 {
+  position: absolute;
+  margin-left: 475px;
+  margin-top: 16px;
+}
+
+.vector17 {
+  position: absolute;
+  margin-left: 475px;
+  margin-top: 16px;
+}
+
+.vector18 {
+  position: absolute;
+  margin-left: 813px;
+  margin-top: -201px;
+}
+
+.sec-two-four {
+  width: 1920px;
+  height: 1770px;
+  margin: 0 auto;
+}
+
+.box-two {
+  box-sizing: border-box;
+  padding: 30px;
+  height: 108px;
+  background: #1b213a;
+  border: 2px solid #40467c;
+  margin-top: 34px;
+  margin-left: 308px;
+  color: #ffffff;
+}
+
+.box-two h2 {
+  position: absolute;
+  width: 327px;
+  height: 43px;
+  font-family: "Darker Grotesque";
+  font-weight: 600;
+  font-size: 32px;
+  padding-left: 29px;
+  margin-top: -1px;
+}
+
+.box-three {
+  box-sizing: border-box;
+  padding: 30px;
+  height: 108px;
+  background: #1b213a;
+  border: 2px solid #40467c;
+  margin-top: 34px;
+  margin-left: 308px;
+  color: #ffffff;
+}
+
+.box-three h2 {
+  position: absolute;
+  width: 411px;
+  height: 43px;
+  font-family: "Darker Grotesque";
+  font-weight: 600;
+  font-size: 32px;
+  padding-left: 29px;
+  margin-top: -1px;
+}
+
+
+.text-gallery {
+  position: absolute;
+  width: 178.55px;
+  height: 48px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  color: #FFFFFF;
+  margin-left: 301px;
+  margin-top: 103px;
+}
+
+
+.text-see-more {
+  position: absolute;
+  width: 417px;
+  height: 31px;
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 130%;
+  color: #FFFFFF;
+  margin-left: 548px;
+  margin-top: 114px;
+}
+
+
+.text-see-more span {
+  position: absolute;
+  width: 417px;
+  height: 31px;
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 130%;
+  color: #B2B2D3;
+  margin-left: 5px;
+}
+
+
+
+
+.four-sec-btn-left-foto {
+  position: absolute;
+  margin-top: 82px;
+  margin-left: 1445px;
+}
+
+.four-sec-btn-right-foto {
+  position: absolute;
+  margin-top: 82px;
+  margin-left: 1533px;
+}
+
+
+.rectangle-twenty {
+  position: absolute;
+  margin-top: 202px;
+  margin-left: 301px;
+}
+
+
+.tolpan-foto {
+  position: absolute;
+  margin-top: 202px;
+  margin-left: 957px;
+}
+
+
+.idlers-foto {
+  margin-top: 202px;
+  margin-left: 1302px;
+}
+
+
+.watching-tv-foto {
+  margin-top: 24px;
+  margin-left: 956px;
+}
+
+.the-roof-foto {
+  position: absolute;
+  margin-top: 25px;
+  margin-left: 58px;
+}
+
+
+
+.sec-two-six {
+  width: 1920px;
+  height: 1770px;
+  margin: 0 auto;
+}
+
+
+
+.text-customers-reviews {
+  position: absolute;
+  width: 458px;
+  height: 48px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  color: #FFFFFF;
+  margin-left: 301px;
+  margin-top: -795px;
+}
+
+
+.up-small-btn-foto {
+  position: absolute;
+  margin-left: 229px ;
+  margin-top: -711px;
+}
+
+
+
+.niz-small-btn-foto {
+  position: absolute;
+  margin-left: 213px ;
+  margin-top: -651px;
+}
+
+
+.box-four {
+  position: absolute;
+  width: 437.47px;
+  height: 195px;
+  background: #1b213A;
+  margin-top: -691px;
+  margin-left: 304px;
+  align-items: flex-start;
+  padding: 40px;
+  flex-direction: column;
+
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 130%;
+  color: #B2B2D3;
+  
+  
+}
+
+
+
+
+
+.box-four h2 {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 130%;
+  color: #FFFFFF;
+  margin-top: -9px;
+}
+
+
+
+.box-four span {
+margin-left: 181px;
+}
+
+
+
+.kinoteatr-foto {
+  width: 1051px;
+  position: absolute;
+  margin-left: 859px;
+  margin-top: -690px;
+
+}
+
+
+.box-six {
+  position: absolute;
+  width: 438.47px;
+  height: 191px;
+  background: #1b213A;
+  margin-top: -381px;
+  margin-left: 304px;
+  align-items: flex-start;
+  padding: 40px;
+  flex-direction: column;
+
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 130%;
+  color: #B2B2D3;
+}
+
+
+.box-six h2 {
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 130%;
+  color: #FFFFFF;
+  margin-top: -9px;
+}
+
+
+
+.box-six span {
+  margin-left: 116px;
+  }
+
+
+
+  .sec-two-seven {
+    width: 1920px;
+    height: 1770px;
+    margin: 0 auto;
+  }
+
+
+  .cinema-with-beer-foto {
+    position: absolute;
+    margin-top: -1747px;
+    margin-left: 20px;
+  }
+
+
+
+  .box-seven {
+    position: absolute;
+    width: 636px;
+    height: 640px;
+    background: #1B213A;
+    margin-top: -1747px;
+    margin-left: 953px;
+  }
+
+  .box-seven h2 {
+    position: absolute;
+    width: 323.4px;
+    height: 48px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    color: #FFFFFF;
+    margin-left: 62px;
+    margin-top: 111px;
+  }
+
+
+  .name-colon-one {
+    width: 516px;
+    height: 60px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 2px solid #FFFFFF;
+    margin-top: 204px;
+    margin-left: 60px;
+  }
+
+
+  .email-colon-two {
+    width: 516px;
+    height: 60px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 2px solid #40467C;
+    margin-top: 285px;
+    margin-left: 60px;
+    background-color: #1B213A;
+    padding-left: 15px;
+  }
+
+
+  .comments-colon-three {
+    width: 516px;
+    height: 126px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 2px solid #40467C;
+    margin-top: 367px;
+    margin-left: 60px;
+    background-color: #1B213A;
+    padding-left: 15px;
+    padding-top: 60px;
+  }
